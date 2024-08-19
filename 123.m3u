@@ -41,6 +41,9 @@ http://217.29.23.194:4022/udp/239.255.1.137:5004
 #EXTINF:-1,Private HD
 #EXTGRP:Adult
 http://46.163.155.237:65081/udp/239.99.17.236:1234
+#EXTINF:-1,Телеканал кому за 18
+#EXTGRP:Adult
+https://v2.catcast.tv/content/37358/index.m3u8
 #EXTINF:-1,Vixen HD
 #EXTGRP:Adult
 http://78.130.250.2:8023/play/a031/index.m3u8
